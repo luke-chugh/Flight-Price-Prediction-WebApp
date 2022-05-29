@@ -5,7 +5,7 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 
 
-## Demo
+## Below is the screenshot of my WebApp
 
 ![Capture](https://github.com/luke-chugh/Flight-Price-Prediction-WebApp/blob/main/screenshots/1.png)
 
