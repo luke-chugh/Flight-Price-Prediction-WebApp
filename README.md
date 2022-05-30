@@ -22,4 +22,3 @@ python app.py
 ```
 # Author:
 [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
-
