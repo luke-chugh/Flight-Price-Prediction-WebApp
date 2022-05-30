@@ -11,10 +11,16 @@ This is a Flask web app which predicts fare of Flight ticket.
 
 ![Capture](https://github.com/luke-chugh/Flight-Price-Prediction-WebApp/blob/main/screenshots/1.png)
 
-# Installation
+# Installation:
 To install the required packages and libraries, run this command in the project directory after [cloning](https://www.howtogeek.com/451360/how-to-clone-a-github-repository/) the repository:
 ```bash
 pip install -r requirements.txt
 ```
-# Author
+
+To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+```
+python main.py
+```
+# Author:
 [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
+
