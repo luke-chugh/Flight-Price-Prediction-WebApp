@@ -16,10 +16,9 @@ To install the required packages and libraries, run this command in the project 
 ```bash
 pip install -r requirements.txt
 ```
-
-To use this library run the following command in a command prompt/ terminal inside the directory of this cloned repository:
+To use this app run the following command in a command prompt/ terminal inside the directory of this cloned repository:
 ```
-python main.py
+python app.py
 ```
 # Author:
 [Luke Chugh](https://www.linkedin.com/in/luke-chugh-2b2043181/)
